@@ -92,7 +92,7 @@ export default class YoutubeEmbed {
 
     function getUrl(size) {
       const thumbnailUrl = 'https://img.youtube.com/vi'
-      return `${thumbnailUrl}/${videoId}/${size}.png`
+      return `${thumbnailUrl}/${videoId}/${size}.jpg`
     }
 
     return {
