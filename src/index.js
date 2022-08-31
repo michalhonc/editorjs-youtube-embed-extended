@@ -154,7 +154,7 @@ export default class YoutubeEmbed {
     const input = blockContent.querySelector("input");
     return {
       url: this.url,
-      thumbnail: this._getThumbnail(),
+      thumbnail: this._getThumbnail(this.url),
     };
   }
 }
