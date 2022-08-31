@@ -1,7 +1,7 @@
 {
-  "name": "editorjs-youtube-embed",
-  "version": "1.0.3",
-  "description": "Youtube video embed tool for Editor.js",
+  "name": "editorjs-youtube-embed-extended",
+  "version": "1.0.0",
+  "description": "Youtube video embed tool for Editor.js extended with thumbnail URLs. Forked from https://github.com/yuanwei92/editorjs-youtube-embed",
   "main": "dist/main.js",
   "scripts": {
     "build": "webpack",
@@ -11,11 +11,11 @@
     "editor.js",
     "editorjs"
   ],
-  "author": "Tei Yuan Wei",
+  "author": "Michal Honc",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yuanwei92/editorjs-youtube-embed"
+    "url": "https://github.com/michalhonc/editorjs-youtube-embed-extended"
   },
   "babel": {
     "presets": [
