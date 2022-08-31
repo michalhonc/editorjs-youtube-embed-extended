@@ -1,6 +1,6 @@
 {
   "name": "editorjs-youtube-embed-extended",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Youtube video embed tool for Editor.js extended with thumbnail URLs. Forked from https://github.com/yuanwei92/editorjs-youtube-embed",
   "main": "dist/main.js",
   "scripts": {
